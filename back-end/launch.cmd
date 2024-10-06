@@ -1,0 +1,1 @@
+F: && cd F:\Demo\vuejs\flask-vuejs-blog\back-end && conda activate demo && flask run
