@@ -4,5 +4,5 @@ venv/
 .env
 app.db
 madblog.log*
-.bat
-.cmd
+*.bat
+*.cmd
